@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 import path from 'path'
 
 export default defineConfig({
-  base: '/missing.cat/', // Change this to match your repository name
+  base: '/',  
   plugins: [react()],
   resolve: {
     alias: {
