@@ -58,7 +58,7 @@ const App = () => {
             <CardContent>
               <div className="mb-6">
                 <img 
-                  src="/public/hesback.jpg" 
+                  src="/hesback.jpg" 
                   alt="Iggy reunited with his human" 
                   className="w-full rounded-lg shadow-lg mb-4"
                 />
@@ -107,7 +107,7 @@ const App = () => {
             <CardContent>
               <div className="w-full h-[800px] rounded-lg overflow-hidden shadow-lg">
                 <object
-                  data="/public/missing-poster.pdf"
+                  data="/missing-poster.pdf"
                   type="application/pdf"
                   className="w-full h-full"
                 >
